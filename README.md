@@ -27,18 +27,18 @@ In this assignment, I act as a Data Analyst at a Real Estate Investment Trust (R
 2. Exploratory Data Analysis (EDA)
 *	Used corr() to identify features most correlated with price
 *	Visual analysis using seaborn:
-o	regplot: Identified sqft_above as positively correlated with price
-o	boxplot: Found that waterfront properties have higher prices compared to non-waterfront homes
+	regplot: Identified sqft_above as positively correlated with price
+	boxplot: Found that waterfront properties have higher prices compared to non-waterfront homes
 
 3. Model Development
 *	Simple Linear Regression (SLR)
-o	Feature: sqft_living
-o	R² score: 0.49
+	Feature: sqft_living
+	R² score: 0.49
 *	Multiple Linear Regression (MLR)
-o	Used multiple relevant features
-o	R² score: 0.65
+	Used multiple relevant features
+	R² score: 0.65
 *	Polynomial Regression with Pipeline
-o	Pipeline included:
+	Pipeline included:
 	StandardScaler
 	PolynomialFeatures
 	LinearRegression
@@ -46,16 +46,16 @@ Improved R^2 and model performance compared to basic linear models without polyn
 
 4. Model Evaluation and Refinement
 *	Train/Test Split
-o	85% training / 15% testing
+	85% training / 15% testing
 *	Ridge Regression
-o	Regularization parameter (alpha): 0.1
-o	Test R² score: 0.64
+	Regularization parameter (alpha): 0.1
+	Test R² score: 0.64
 *	Polynomial Ridge Regression (2nd Order)
-o	Applied polynomial transformation to train and test data
-o	Ridge regression with alpha = 0.1
-o	Test R² score improved to 0.70
+	Applied polynomial transformation to train and test data
+	Ridge regression with alpha = 0.1
+	Test R² score improved to 0.70
 *	Model Validation
-o	Distribution plot shows strong alignment between actual prices and predicted prices
+	Distribution plot shows strong alignment between actual prices and predicted prices
 
 ![Q11](https://github.com/user-attachments/assets/0e676d1c-ccd1-4ece-85c7-bbecc5abba41)
 
