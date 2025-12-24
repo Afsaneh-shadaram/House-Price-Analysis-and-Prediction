@@ -32,30 +32,30 @@ In this assignment, I act as a Data Analyst at a Real Estate Investment Trust (R
 
 3. Model Development
 *	Simple Linear Regression (SLR)
-	Feature: sqft_living
-	R² score: 0.49
+	* Feature: sqft_living
+	* R² score: 0.49
 *	Multiple Linear Regression (MLR)
-	Used multiple relevant features
-	R² score: 0.65
+	* Used multiple relevant features
+	* R² score: 0.65
 *	Polynomial Regression with Pipeline
-	Pipeline included:
+	* Pipeline included:
 	StandardScaler
 	PolynomialFeatures
 	LinearRegression
-Improved R^2 and model performance compared to basic linear models without polynomial features.
+    * Improved R^2 and model performance compared to basic linear models without polynomial features.
 
 4. Model Evaluation and Refinement
 *	Train/Test Split
-	85% training / 15% testing
+	* 85% training / 15% testing
 *	Ridge Regression
-	Regularization parameter (alpha): 0.1
-	Test R² score: 0.64
+	* Regularization parameter (alpha): 0.1
+	* Test R² score: 0.64
 *	Polynomial Ridge Regression (2nd Order)
-	Applied polynomial transformation to train and test data
-	Ridge regression with alpha = 0.1
-	Test R² score improved to 0.70
+	* Applied polynomial transformation to train and test data
+	* Ridge regression with alpha = 0.1
+	* Test R² score improved to 0.70
 *	Model Validation
-	Distribution plot shows strong alignment between actual prices and predicted prices
+	* Distribution plot shows strong alignment between actual prices and predicted prices
 
 ![Q11](https://github.com/user-attachments/assets/0e676d1c-ccd1-4ece-85c7-bbecc5abba41)
 
