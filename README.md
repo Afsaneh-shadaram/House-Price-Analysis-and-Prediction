@@ -27,8 +27,8 @@ In this assignment, I act as a Data Analyst at a Real Estate Investment Trust (R
 2. Exploratory Data Analysis (EDA)
 *	Used corr() to identify features most correlated with price
 *	Visual analysis using seaborn:
-	regplot: Identified sqft_above as positively correlated with price
-	boxplot: Found that waterfront properties have higher prices compared to non-waterfront homes
+	** regplot: Identified sqft_above as positively correlated with price
+	** boxplot: Found that waterfront properties have higher prices compared to non-waterfront homes
 
 3. Model Development
 *	Simple Linear Regression (SLR)
