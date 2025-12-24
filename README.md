@@ -65,5 +65,4 @@ In this assignment, I act as a Data Analyst at a Real Estate Investment Trust (R
 *	Feature engineering and regularization significantly improve prediction accuracy
 *  Square footage is strong predictor of house prices
 *  Polynomial Ridge Regression provided the best overall performance
-*	Waterfront view and square footage are strong predictors of house prices
-*	Polynomial Ridge Regression provided the best overall performance
+
