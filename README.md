@@ -8,8 +8,8 @@ In this assignment, I act as a Data Analyst at a Real Estate Investment Trust (R
 # Dataset
 •	Source: King County (Seattle area) house sales dataset
 •	Time Period: May 2014 – May 2015
-•	Original Dataset: Kaggle – House Sales Prediction <https://www.kaggle.com/datasets/harlfoxem/housesalesprediction> (here)
-•	License: Creative Commons Zero (CC0 1.0 – Public Domain) <https://creativecommons.org/publicdomain/zero/1.0/.> (here)
+•	Original Dataset: Kaggle – House Sales Prediction [here] (https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) 
+•	License: Creative Commons Zero (CC0 1.0 – Public Domain) [here] (https://creativecommons.org/publicdomain/zero/1.0/.) 
 •	Note: The dataset was slightly modified for this course
 
 # Tools & Environment
@@ -57,10 +57,13 @@ o	Test R² score improved to 0.70
 •	Model Validation
 o	Distribution plot shows strong alignment between actual prices and predicted prices
 
+![Q11](https://github.com/user-attachments/assets/0e676d1c-ccd1-4ece-85c7-bbecc5abba41)
+
+
 # Key Takeaways
 
 •	Feature engineering and regularization significantly improve prediction accuracy
-• Waterfront view and square footage are strong predictors of house prices
-• Polynomial Ridge Regression provided the best overall performance
+•  Square footage is strong predictor of house prices
+•  Polynomial Ridge Regression provided the best overall performance
 •	Waterfront view and square footage are strong predictors of house prices
 •	Polynomial Ridge Regression provided the best overall performance
