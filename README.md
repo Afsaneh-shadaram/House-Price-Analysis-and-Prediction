@@ -8,8 +8,8 @@ In this assignment, I act as a Data Analyst at a Real Estate Investment Trust (R
 ## Dataset
 *	Source: King County (Seattle area) house sales dataset
 *	Time Period: May 2014 – May 2015
-*	Original Dataset: Kaggle – House Sales Prediction [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) 
-*	License: Creative Commons Zero (CC0 1.0 – Public Domain) [here](https://creativecommons.org/publicdomain/zero/1.0/.) 
+*	Original Dataset: Kaggle – House Sales Prediction [(here)](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). 
+*	License: Creative Commons Zero (CC0 1.0 – Public Domain) [(here)](https://creativecommons.org/publicdomain/zero/1.0/.).
 *	Note: The dataset was slightly modified for this course
 
 ## Tools & Environment
